@@ -46,6 +46,3 @@ INSTALLED_APPS = (<p>
     "moderna",<p>
 )<p>
 
-## Author
-
-[@slopebook___](https://twitter.com/slopebook___)
